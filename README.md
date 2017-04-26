@@ -1,6 +1,6 @@
 # npmdoc-slush-angular
 
-#### api documentation for  [slush-angular (v0.4.5)](https://github.com/slushjs/slush-angular)  [![npm package](https://img.shields.io/npm/v/npmdoc-slush-angular.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-slush-angular) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-slush-angular.svg)](https://travis-ci.org/npmdoc/node-npmdoc-slush-angular)
+#### basic api documentation for  [slush-angular (v0.4.5)](https://github.com/slushjs/slush-angular)  [![npm package](https://img.shields.io/npm/v/npmdoc-slush-angular.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-slush-angular) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-slush-angular.svg)](https://travis-ci.org/npmdoc/node-npmdoc-slush-angular)
 
 #### A slush generator for AngularJS using the Google Angular App Structure Recommendations
 
@@ -74,7 +74,8 @@
     "scripts": {
         "test": "NODE_ENV=test mocha -R spec test/*_test.js"
     },
-    "version": "0.4.5"
+    "version": "0.4.5",
+    "bin": {}
 }
 ```
 
